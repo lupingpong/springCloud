@@ -1,1 +1,1 @@
-只为学习一下springCloud使用！！！！
+for learn springCloud！！
